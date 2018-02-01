@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\OtherScripts\WorldManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\UIscripts\GeneralVillageGUI.cs" Line="77" Column="43" />
+      <File FileName="Assets\Scripts\OtherScripts\Product.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIscripts\EconomyGUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OtherScripts\KingdomManager.cs" Line="126" Column="2" />
+      <File FileName="Assets\Scripts\PlayerScripts\PlayerController.cs" Line="38" Column="3" />
+      <File FileName="Assets\Scripts\VillageScripts\VillageProductManagement.cs" Line="153" Column="35" />
+      <File FileName="Assets\Scripts\OtherScripts\WorldManager.cs" Line="191" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
